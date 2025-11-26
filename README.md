@@ -2,6 +2,13 @@
 
 Contracting profile for ML-Tudor.
 
+Key Priorities and Goals:
+- AI Accelerated Science: Integrate and leverage federal scientific datasets with advanced AI platforms to train scientific foundation models, automate research, and accelerate breakthroughs.
+- Collaborative Innovation: Proposals are built on partnerships with national labs, universities, private sector, and existing federal infrastructure.
+- Security & Energy Dominance: Ensured robust cybersecurity, data protection, and tech sovereignty, especially in strategic sectors like energy and national security.
+- Workforce Productivity: Deploy AI solutions that increase workforce effectiveness and multiply the return on investment.
+- Global Leadership: Build technology that strengthens America’s strategic edge and supports its aspiration for global dominance in AI and high performance computing.
+
 We provide:
 - ML consulting and applied machine learning systems
 - Retrieval Augmented Generation (RAG) systems, document understanding, and modern semantic search
