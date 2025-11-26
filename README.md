@@ -16,7 +16,7 @@ We provide:
 - Research collaboration with academic and national lab partners
 
 Highlights
-- RAG starter and demo: https://github.com/ML-Tudor/RAG (private — request access)
+- RAG starter and demo: https://github.com/ML-Tudor/RAG (private)
 - Focus areas: energy, transportation, public policy, legal & regulatory document automation
 - Typical engagements: 3–9 months, 2–6 person teams, production ready deliverables
 
