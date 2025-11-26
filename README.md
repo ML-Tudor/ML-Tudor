@@ -1,5 +1,4 @@
 # ML-Tudor
-## Domus Grata
 
 Contracting profile for ML-Tudor.
 
@@ -32,3 +31,5 @@ Contact
 
 License
 - README content: CC0 (public domain), code and work products in other repos specify their own licenses.
+
+## Domus Grata
